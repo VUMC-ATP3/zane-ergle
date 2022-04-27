@@ -4,4 +4,4 @@ This is second commit test.
 
 This is new text
 
-Manazara branch izmaiòas
+Manazara branch changes are here. 
