@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7454d35c-7101-4a0b-8b02-fe7a477b2ae9" name="Changes" comment="">
+    <list default="true" id="a735c16e-10f5-42c3-b2a9-56262138b555" name="Changes" comment="01052022 new changes here v1">
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,5 +31,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01052022 new changes here" />
+    <MESSAGE value="01052022 new changes here v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="01052022 new changes here v1" />
   </component>
 </project>
