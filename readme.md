@@ -5,6 +5,7 @@
 
 Mani sauc Zane. 
 Un šeit nebūs teksts, jo man slinkums rakstīt par sevi kaut ko. 
+Dzīve ir forša.
 
 Links uz APT [kursu](https://edu.lu.lv/course/view.php?id=2225)
 
