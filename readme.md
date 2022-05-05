@@ -1,6 +1,8 @@
 
-#Šis ir mans otrais mājas darbs
-##200 vārdu apraksts par mani
+Šis ir mans otrais mājas darbs.
+<br>
+200 vārdu apraksts par mani.
+<br>
 Mani sauc Zane. Un šeit būs random teksts, jo man slinkums rakstīt par sevi kaut ko. 
 <br>
 Lollipop pastry sesame snaps pudding tootsie roll. Toffee danish danish toffee cotton candy shortbread macaroon sesame snaps sugar plum. Tootsie roll wafer oat cake sweet roll bonbon marzipan cheesecake. Sesame snaps dessert topping topping chocolate cake carrot cake. Lollipop cheesecake fruitcake cupcake muffin. Cheesecake bear claw halvah cookie cake. Marshmallow donut brownie caramels chocolate cake jelly. Marzipan sesame snaps sugar plum fruitcake sweet roll lollipop macaroon sweet sweet roll. Dragée topping brownie sesame snaps toffee macaroon chocolate ice cream sweet. Apple pie cake shortbread croissant shortbread. Lollipop chupa chups wafer gingerbread tart candy. Gingerbread sesame snaps tootsie roll topping powder jelly. Gummi bears marzipan jujubes pudding lollipop pastry.

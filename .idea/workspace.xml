@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7454d35c-7101-4a0b-8b02-fe7a477b2ae9" name="Changes" comment="01052022 new changes here v1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7454d35c-7101-4a0b-8b02-fe7a477b2ae9" name="Changes" comment="Pievienots apraksts about me labojums">
+      <change beforePath="$PROJECT_DIR$/majasdarbs/zane-ergle" beforeDir="false" afterPath="$PROJECT_DIR$/majasdarbs/zane-ergle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="01052022_v1" />
@@ -58,7 +59,21 @@
       <option name="presentableId" value="Default" />
       <updated>1651775795097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pievienots apraksts about me.">
+      <created>1651780781336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651780781336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pievienots apraksts about me labojums">
+      <created>1651780883778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651780883778</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +86,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pievienots apraksts about me." />
+    <MESSAGE value="Pievienots apraksts about me labojums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pievienots apraksts about me labojums" />
   </component>
 </project>
