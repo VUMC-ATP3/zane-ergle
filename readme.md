@@ -9,6 +9,7 @@ Gummi bears tootsie roll apple pie tart cupcake. Biscuit sweet gummi bears caram
 
 Links uz APT kursu: https://edu.lu.lv/course/view.php?id=2225
 
-Bilde zemāk: 
+Bilde zemāk:
+<br>
 ![Šī ir bilde](https://i.pinimg.com/564x/ad/b4/12/adb4123fcf25b79ec8a16fbf13a78e86.jpg)
 
