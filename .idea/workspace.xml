@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7454d35c-7101-4a0b-8b02-fe7a477b2ae9" name="Changes" comment="Pievienots apraksts about me labojums">
-      <change beforePath="$PROJECT_DIR$/majasdarbs/zane-ergle" beforeDir="false" afterPath="$PROJECT_DIR$/majasdarbs/zane-ergle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/majasdarbs/zane-ergle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651781279065</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Pievienots apraksts about me labojums">
+      <created>1651781733577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651781733577</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

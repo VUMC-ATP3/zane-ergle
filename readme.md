@@ -3,7 +3,8 @@
 
 200 vārdu apraksts par mani.
 
-Mani sauc Zane. Un šeit nebūs teksts, jo man slinkums rakstīt par sevi kaut ko. 
+Mani sauc Zane. 
+Un šeit nebūs teksts, jo man slinkums rakstīt par sevi kaut ko. 
 
 Links uz APT [kursu](https://edu.lu.lv/course/view.php?id=2225)
 
